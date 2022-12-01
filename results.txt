@@ -1,0 +1,33 @@
+{
+    "private keys": [
+        {
+            "author": "Artem Payvin",
+            "message": "Merge branch 'enhancement/SKALE-2510-adopt-private-keys' of https://github.com/skalenetwork/skale-manager into enhancement/SKALE-2510-adopt-private-keys",
+            "authored_datetime": "2021-08-04 12:50:43+03:00"
+        },
+        {
+            "author": "Vadim Yavorsky",
+            "message": "SKALE-2060 added private keys to virtual environment",
+            "authored_datetime": "2020-02-05 21:30:28+02:00"
+        },
+        {
+            "author": "Dmytro Stebaiev",
+            "message": "SKALE-1973 Fix issue with private keys on testing",
+            "authored_datetime": "2020-01-16 17:31:30+02:00"
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Remove private keys from travis yml",
+            "authored_datetime": "2019-11-19 19:29:13+02:00"
+        }
+    ],
+    "password": [],
+    "confidential": [],
+    "secret": [
+        {
+            "author": "Dmytro Stebaiev",
+            "message": "SKALE-2625 Rename secretKeyContribution argument",
+            "authored_datetime": "2020-06-05 16:21:56+03:00"
+        }
+    ]
+}
